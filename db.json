@@ -2,10 +2,10 @@
   "users": [
     {
       "id": 1,
-      "name": "",
-      "email": "",
-      "password": "",
-      "cnfpassword": ""
+      "name": "ahmed",
+      "email": "ahmed.hussein201150@gmail.com",
+      "password": "123123123",
+      "cnfpassword": "123123123"
     }
   ]
 }
